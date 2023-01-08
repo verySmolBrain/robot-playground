@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/smolbrain/sda/projects/webots/controllers/build",
+  "command": "/usr/bin/g++  -I/usr/local/webots/include/controller/c -I/usr/local/webots/include/controller/cpp -g -o CMakeFiles/controllers.dir/controller.cpp.o -c /home/smolbrain/sda/projects/webots/controllers/controller.cpp",
+  "file": "/home/smolbrain/sda/projects/webots/controllers/controller.cpp"
+}
+]
