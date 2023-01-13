@@ -1,3 +1,0 @@
-/home/smolbrain/sda/projects/webots/controllers/build/CMakeFiles/controllers.dir
-/home/smolbrain/sda/projects/webots/controllers/build/CMakeFiles/edit_cache.dir
-/home/smolbrain/sda/projects/webots/controllers/build/CMakeFiles/rebuild_cache.dir

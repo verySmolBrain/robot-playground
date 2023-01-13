@@ -98,11 +98,11 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-L/lib/controller",
+				"fragment" : "-L/usr/local/webots/lib/controller",
 				"role" : "libraryPath"
 			},
 			{
-				"fragment" : "-Wl,-rpath,/lib/controller",
+				"fragment" : "-Wl,-rpath,/usr/local/webots/lib/controller",
 				"role" : "libraries"
 			},
 			{

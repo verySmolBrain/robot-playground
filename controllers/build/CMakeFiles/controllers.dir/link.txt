@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/controllers.dir/controller.cpp.o -o controllers   -L/lib/controller  -Wl,-rpath,/lib/controller -lm -lController -lCppController 
